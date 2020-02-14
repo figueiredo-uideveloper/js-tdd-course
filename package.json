@@ -1,0 +1,19 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "TDD JS learning project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/figueiredo-uideveloper/js-tdd-course.git"
+  },
+  "author": "Leandro Figueiredo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/figueiredo-uideveloper/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/figueiredo-uideveloper/js-tdd-course#readme"
+}
