@@ -33,4 +33,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Course TDD JS taught by William Justen - [Curso JS com TDD na Prática](https://www.udemy.com/course/js-com-tdd-na-pratica/?couponCode=PROMOJAN20)
-* Inspirated in "A Template to make good README.md" - [Template README.md](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+* This README was inspirated in "A Template to make good README.md" - [Template README.md](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
