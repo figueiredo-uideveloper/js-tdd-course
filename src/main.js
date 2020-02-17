@@ -1,1 +1,3 @@
-const a = "asdf"
+const a = 'asdf';
+
+console.log(a)
