@@ -4,7 +4,8 @@
   "description": "TDD JS learning project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "npx eslint src/*",
+    "prepush": "npm run lint"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/figueiredo-uideveloper/js-tdd-course/issues"
   },
-  "homepage": "https://github.com/figueiredo-uideveloper/js-tdd-course#readme"
+  "homepage": "https://github.com/figueiredo-uideveloper/js-tdd-course#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.20.1",
+    "husky": "^4.2.3"
+  }
 }
