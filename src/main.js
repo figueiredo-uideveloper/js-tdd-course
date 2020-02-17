@@ -1,3 +1,9 @@
-const a = 'asdf';
+const a = 1;
+const b = 2;
 
-console.log(a)
+function sum() {
+  const c = a + b;
+  return c;
+}
+
+sum();
