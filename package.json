@@ -4,8 +4,12 @@
   "description": "TDD JS learning project",
   "main": "index.js",
   "scripts": {
-    "lint": "npx eslint src/*",
-    "prepush": "npm run lint"
+    "lint": "npx eslint src/*"
+  },
+  "husky": {
+    "hooks": {
+      "pre-push": "npm run lint"
+    }
   },
   "repository": {
     "type": "git",
